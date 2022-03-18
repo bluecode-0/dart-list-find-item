@@ -1,4 +1,4 @@
-import "Person.dart";
+import "files/Person.dart";
 
 void main() {
   final people = [
